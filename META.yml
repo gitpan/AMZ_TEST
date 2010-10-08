@@ -1,6 +1,6 @@
 ---
 name: AMZ_TEST
-version: v0.0.1
+version: v0.0.2
 author:
   - Alexey Melezhik / melezhik@gmail.com
 abstract: AMZ::TEST
@@ -9,6 +9,10 @@ resources:
   license: http://dev.perl.org/licenses/
 configure_requires:
   Module::Build: 0.34
+provides:
+  AMZ::Test:
+    file: lib/AMZ/Test.pm
+    version: 1
 generated_by: Module::Build version 0.34
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html

@@ -5,7 +5,7 @@ use strict;
 
 my $build = Module::Build->new(
 
-    dist_version    => '0.0.1',
+    dist_version    => '0.0.2',
     dist_author     => 'Alexey Melezhik / melezhik@gmail.com',
     license         => 'perl',
     dist_name       => 'AMZ_TEST',

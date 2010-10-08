@@ -1,5 +1,8 @@
+AMZ_TEST-0.0.1.tar.gz
 Build.PL
 lib/AMZ/Test.pm
 MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
+README
+t/00.t
