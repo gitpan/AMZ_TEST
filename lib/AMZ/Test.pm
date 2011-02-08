@@ -1,9 +1,9 @@
 =head1 SYNOPIS
 
- test test test
+ тестируем документацию
 
 =cut
 
 package AMZ::Test;
 
-$VERSION = 1;
+$VERSION = 0.0.3;
